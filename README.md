@@ -1,6 +1,5 @@
 # The_Tiles_Studio.com
-UI Before Login:
-![image](https://github.com/rutujadpawar/Tiles-Studio/assets/122771999/d821dc87-2d3b-4265-a548-003262625b60)
+
 
 Home Page: ![image](https://github.com/rutujadpawar/Tiles-Studio/assets/122771999/b803ba88-9a9d-4350-991a-d00cb2f7c8c9)
 
