@@ -1,7 +1,7 @@
 # The_Tiles_Studio.com
+![image](https://github.com/rutujadpawar/Tiles-Studio/assets/122771999/b803ba88-9a9d-4350-991a-d00cb2f7c8c9)
 
-
-Home Page: ![image](https://github.com/rutujadpawar/Tiles-Studio/assets/122771999/b803ba88-9a9d-4350-991a-d00cb2f7c8c9)
+Home Page: 
 
 Header ![image](https://github.com/rutujadpawar/Tiles-Studio/assets/122771999/8031bcff-77e6-4ca4-abb9-f63c1444086d)
 
